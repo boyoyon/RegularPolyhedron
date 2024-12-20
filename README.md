@@ -62,6 +62,11 @@
             python dodecahedron.py (画像ファイル名１) ・・・ (画像ファイル名１２)<br>
             <br>
             python dodecahedron_framework.py<br>
+            <br>
+            おまけ<br>
+            python dodecahedronImgPly.py (RGB画像ファイル名) (PLYファイル名) [(zスケール) (xyスケール]<br>
+            正１２面体の各面にテクスチャーつき3Dを貼り付けてみました。<br>
+            <img src="images/dodecahedronImgPly.gif"><br>
         </p>
         <h3>正２０面体</h3>
         <p>
