@@ -21,8 +21,12 @@
         <img src="images/dodecahedron_framework.gif"><br>
         <h3>正２０面体</h3>
         <img src="images/icosahedron.gif"><br>
+        <h3>正２０面体(骨格)</h3>
+        黄金比の長方形３枚を組み合わせた骨格の頂点を結んで面を張ると正２０面体になります。<br>
+        <img src="images/icosahedron_framework.gif"><br>
         <h3>正２０面体(細分１)</h3>
         各辺の中点が外接球に接するように持ち上げて細分します。正多面体ではなくなります。<br>
+        <img src="images/how_to_subdivide.png"><br>
         <img src="images/icosahedron_subdiv1.gif"><br>
         <h3>正２０面体(細分２)</h3>
         <img src="images/icosahedron_subdiv2.gif"><br>
@@ -30,9 +34,6 @@
         <img src="images/icosahedron_subdiv3.gif"><br>
         <h3>正２０面体(細分４)</h3>
         <img src="images/icosahedron_subdiv4.gif"><br>
-        <h3>正２０面体(骨格)</h3>
-        黄金比の長方形３枚を組み合わせた骨格の頂点を結んで面を張ると正２０面体になります。<br>
-        <img src="images/icosahedron_framework.gif"><br>
         <h3>サッカーボール</h3>
         正２０面体のでっぱり部分１／３を切り落とすとサッカーボールになります。<br>
         <img src="images/soccerball.gif"><br>
